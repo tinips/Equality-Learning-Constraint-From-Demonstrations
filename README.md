@@ -141,6 +141,4 @@ Public release choices:
 
 ## License / Citation
 
-No license file is included in this snapshot. Add the intended license before publishing if others should be allowed to reuse the code.
-
 If you use or build on this implementation, please cite the repository or the associated public research output once available.
