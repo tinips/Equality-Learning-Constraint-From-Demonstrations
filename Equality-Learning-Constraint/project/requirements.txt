@@ -1,7 +1,0 @@
-torch
-numpy
-matplotlib
-pyyaml
-scikit-image
-scikit-learn
-osqp
