@@ -1,0 +1,19 @@
+SEED         = 12
+GRID_LIM     = 2.5          
+GRID_N       = 600  
+NPOS         = 700
+EPOCHS       = 600
+BATCH        = 128
+LR_NN        = 1e-3
+LR_POLY      = 5e-3
+LR_AE        = 1e-3
+MARGIN       = 0.2 
+ALPHA_NEG    = 0.5          
+LAM_L2       = 1e-4         # L2 regularization weight
+LAM_EIKONAL  = 1e-3         # Eikonal regularization weight
+TAU_DIST     = 0.03
+SIGMA_GEOM   = 0.06
+ALPHA_FINAL  = 0.5
+EVAL_SPLIT = 0.2
+
+N_SPIRAL_TUBE_SAMPLES = 2000
